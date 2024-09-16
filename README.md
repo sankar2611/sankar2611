@@ -1,4 +1,4 @@
-👋 Hi, I'm Sankar Murugan(@sankar2611)
+👋 Hi, I'm Sankar Murugan(@sankar2611).
 I’m a data scientist student with a solid foundation in statistics and a passion for solving complex problems using data-driven approaches. My academic background in statistics, combined with experience in data science and web development, allows me to work across both front-end and back-end technologies, as well as data analysis and visualization.
 
 🛠️ Technologies & Skills
