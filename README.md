@@ -20,6 +20,6 @@ Machine Learning algorithms for predictive modeling
 Feel free to explore my repositories, contribute, or reach out for collaboration!
 
 
-www.linkedin.com/in/sankar-murugan-b99922273
+www.linkedin.com/in/sankar-murugan-b99922273  
 sankarmurugan2611@gmail.com                                            
                                                 
